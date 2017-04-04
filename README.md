@@ -3,8 +3,6 @@
 ## ABOUT:
 WPForce is a suite of Wordpress Attack tools.  Currently this contains 2 scripts - WPForce, which brute forces logins via the API, and Yertle, which uploads shells once admin credentials have been found.  Yertle also contains a number of post exploitation modules.
 
-For more information, visit the blog post here: 
-https://www.n00py.io/2017/03/squeezing-the-juice-out-of-a-compromised-wordpress-server/
 ## FEATURES:
 * Brute Force via API, not login form bypassing some forms of protection
 * Can automatically upload an interactive shell
